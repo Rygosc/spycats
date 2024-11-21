@@ -1,6 +1,6 @@
-# Spy Cats API
+# Spy Cats 
 
-**Spy Cats API** is a REST API for managing spy missions, targets and agents (cats). The project was created on the Django REST Framework.
+**Spy Cats** is a REST API for managing spy missions, targets and agents (cats). The project was created on the Django REST Framework.
 
 ---
 
