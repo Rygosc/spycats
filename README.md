@@ -60,5 +60,4 @@ python manage.py migrate
 python manage.py runserver
 ```
 
-Postman tests you can check in SpyCats.postman_collection.json
-or here https://ua.files.fm/u/nqyb7e9nap
+Postman tests you can check here https://ua.files.fm/u/nqyb7e9nap
